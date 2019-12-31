@@ -24,7 +24,7 @@ This portfolio is designed to showcase my work as a developer, as well as give u
 
 ### Links to Project
 
-[Live Link](https://svivoli.github.io/Portfolio-new/)
+[Live Link](https://svivoli.github.io/Portfolio-new/)  
 [GitHub Repository](https://github.com/svivoli/Portfolio-new)
 
 ### User Experience
@@ -52,3 +52,11 @@ The next section contains my LinkedIn, GitHub, and Heroku profile information. E
 [Contact](https://i.imgur.com/yLbnBlL.png)
 
 After a parallax section of a desk is the last section which contains contact information. Here, my email address and phone number are displayed in separate cards and linked icons to email, GitHub, LinkedIn, and my resume lie below. At the bottom of the page there is a dark footer with legal links and credit to Codrops.
+
+### Developer Experience
+
+This was my first time using a template, and as a developer that takes pride in writing original code, I was reluctant to use it at first. However I am very proud of how it turned out. I think the design is sleek and interactive and I love that it is all on one page. I would like to play around with the images and colors a bit to get a more streamlined pallette down. Also, when I downloaded the template the css file was not formatted how I usually write my css, as they had everything on one line for each class/id. This did make the document shorter and easier to read through at times, but was something I'm not used to.
+
+I hope you enjoy viewing my work and projects and exploring my code. Leave me a message or comment somewhere telling me what you think if you get the chance!
+
+--Sarah Vivoli
