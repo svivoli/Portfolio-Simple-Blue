@@ -1,5 +1,10 @@
 # Portfolio
 
+### Links to Project
+
+[Live Link](https://svivoli.github.io/Portfolio-Simple-Blue/)  
+[GitHub Repository](https://github.com/svivoli/Portfolio-new)
+
 ### Description
 
 This portfolio is designed to showcase my work as a developer, as well as give users and employers a way to access my various profiles and reach out to me. I used a template provided by Codrops, and it was my first time working with a template.
@@ -21,11 +26,6 @@ This portfolio is designed to showcase my work as a developer, as well as give u
 - Linked
 6. Parallax images
 7. Footer
-
-### Links to Project
-
-[Live Link](https://svivoli.github.io/Portfolio-new/)  
-[GitHub Repository](https://github.com/svivoli/Portfolio-new)
 
 ### User Experience
 
