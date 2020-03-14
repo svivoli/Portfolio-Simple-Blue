@@ -231,6 +231,7 @@ Features
 .features-wrapper, .team-wrapper { margin: 70px 0 0; }
 .shadow { text-shadow: #688AA3 1px 1px, #688AA3 2px 2px, #688AA3 3px 3px, #688AA3 4px 4px, #688AA3 5px 5px, #688AA3 6px 6px, #688AA3 7px 7px, #688AA3 8px 8px, #688AA3 9px 9px, #688AA3 10px 10px, #688AA3 11px 11px, #688AA3 12px 12px, #6C8EA7 13px 13px, #6F91AA 14px 14px, #7394AE 15px 15px, #7698B2 16px 16px, #7A9BB6 17px 17px, #7D9EB9 18px 18px, #81A2BD 19px 19px, #84A5C1 20px 20px, #87A8C5 21px 21px, #8BACC8 22px 22px, #8EAFCC 23px 23px, #92B2D0 24px 24px, #95B6D4 25px 25px, #99B9D7 26px 26px, #9CBCDB 27px 27px, #A0C0DF 28px 28px, #A3C3E3 29px 29px, #A7C7E7 30px 30px; }
 .icon { height: 175px; width: 175px; line-height: 175px; max-width: 100%; background: #A7C7E7; border-radius: 50%; -o-border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; display: block; color: #fff; font-size: 55px; text-align: center; vertical-align: middle; position: relative; margin: 0 auto 50px; }
+.skillBtn { margin: 5px; padding: 20px; border: solid 2px #A7C7E7; background: white; font-size: 16px; }
 /* ==========================================================================
 Resume Section
 ========================================================================== */
